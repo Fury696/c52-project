@@ -1,0 +1,104 @@
+img {
+    border: solid;
+    border-color: black;
+}
+
+.header {
+    display: flex;
+    color: #ff6666;
+    background-color: #606060;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px
+  }
+
+.camel:hover {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+    transform: scale(1.2);
+}
+
+.chameleon:hover {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+    transform: scale(1.2);
+}
+
+.pigeon:hover {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+    transform: scale(1.2);
+}    
+
+.teddy-bear:hover {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+    transform: scale(1.2);
+}
+
+.panda:hover {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+    transform: scale(1.2);
+}
+
+.flying-cicada:hover {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+    transform: scale(1.2);
+}
+
+
+body {
+    background-image: url("images/bg.png");
+    background-size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: medium;
+    margin: 0px
+}
+
+
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
